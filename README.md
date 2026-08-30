@@ -1,5 +1,5 @@
 # language-school-DB
-Sistema gestionale per una scuola di lingua inglese: Database realizzato secondo il modello relazionale E-R e Thin-client in Java per il suo utilizzo  
+Sistema gestionale per una scuola di lingua inglese: Database realizzato in SQL e MYSQL, secondo il modello relazionale E-R e Thin-client in Java per il suo utilizzo  
 ## Architettura:
 -Database relazionale costruito partendo dalla traccia del committente,individuando tutti gli elementi necessari come vari attori,operazioni,costo delle singole operazioni.
 
